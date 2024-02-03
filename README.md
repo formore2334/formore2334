@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dima!;" />
 </h1>
 
-<h3 align="center">A software developer from Minsk, Belarus </h3>
+<h3 align="center">Software developer from Minsk, Belarus </h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 💬 Ask me about **Swift, UIKit, SwiftUI**
 
-⚡ Fun fact **Wrong place 500 km on a trip 😊**
+⚡ Fun fact **Got the wrong place for 500 km on the trip 😊**
 
  </div>
  
